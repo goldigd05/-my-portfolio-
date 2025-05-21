@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website!  
 This website showcases my skills, certifications, projects, and achievements in the field of computer science and software development.
 ## 🔗 Live Demo
-👉 [Visit My Portfolio](https://github.com/goldigd05/-my-portfolio-.git)
+👉 [Visit My Portfolio](https://goldigd05.github.io/-my-portfolio-/)
 ---
 ## 📂 What You'll Find
 - 🎓 **About Me** – A quick overview of my background and interests.
