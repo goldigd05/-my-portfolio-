@@ -1,0 +1,96 @@
+/* css/style.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  background: #121212;
+  background-image: url('https://www.th3design.co.uk/wp-content/uploads/2022/08/kvh-laptop.jpg')
+}
+
+#hero {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+canvas#bgCanvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background: black;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  top: 35%;
+}
+
+.content h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+.content nav a {
+  margin: 0 1em;
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+  color: white;
+}ody, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #000;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #ffd700;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+
+.cert-list li {
+  margin: 1rem 0;
+}
+
+.cert-list a {
+  color: #463a37;
+  text-decoration: none;
+}
+
+.cert-list a:hover {
+  color:#463a37;
+  text-decoration: underline;
+}
